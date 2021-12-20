@@ -1,0 +1,33 @@
+{
+  "name": "homebridge-fibaro-security",
+  "version": "1.0.0",
+  "description": "Fibaro based SecuritySystem plugin for homebridge: https://github.com/nfarina/homebridge, with readable state",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "homekit",
+    "security-system",
+    "fibaro"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": "Vladimir Gladkov",
+  "contributors": [
+    ""
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Oxystin/homebridge-fibaro-security.git"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Oxystin/homebridge-fibaro-security.git/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
